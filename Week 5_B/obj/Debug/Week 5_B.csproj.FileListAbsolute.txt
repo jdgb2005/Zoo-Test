@@ -1,0 +1,19 @@
+C:\Users\Personal\Desktop\C#Proyects\Week 5_B\Week 5_B\bin\Debug\Week 5_B.exe.config
+C:\Users\Personal\Desktop\C#Proyects\Week 5_B\Week 5_B\bin\Debug\Week 5_B.exe
+C:\Users\Personal\Desktop\C#Proyects\Week 5_B\Week 5_B\bin\Debug\Week 5_B.pdb
+C:\Users\Personal\Desktop\C#Proyects\Week 5_B\Week 5_B\obj\Debug\Week_5_B.Properties.Resources.resources
+C:\Users\Personal\Desktop\C#Proyects\Week 5_B\Week 5_B\obj\Debug\Week 5_B.csproj.GenerateResource.Cache
+C:\Users\Personal\Desktop\C#Proyects\Week 5_B\Week 5_B\obj\Debug\Week 5_B.exe
+C:\Users\Personal\Desktop\C#Proyects\Week 5_B\Week 5_B\obj\Debug\Week 5_B.pdb
+C:\Users\Personal\Desktop\C#Proyects\Week 5_B\Week 5_B\obj\Debug\Week_5_B.Matrices.resources
+C:\Users\Personal\Desktop\C#Proyects\Week 5_B\Week 5_B\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Personal\Desktop\C#Proyects\Week 5_B\Week 5_B\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Personal\Desktop\C#Proyects\Week 5_B\Week 5_B\bin\Debug\System.Data.dll
+C:\Users\Personal\Desktop\C#Proyects\Week 5_B\Week 5_B\bin\Debug\System.Deployment.dll
+C:\Users\Personal\Desktop\C#Proyects\Week 5_B\Week 5_B\bin\Debug\System.dll
+C:\Users\Personal\Desktop\C#Proyects\Week 5_B\Week 5_B\bin\Debug\System.Drawing.dll
+C:\Users\Personal\Desktop\C#Proyects\Week 5_B\Week 5_B\bin\Debug\System.Net.Http.dll
+C:\Users\Personal\Desktop\C#Proyects\Week 5_B\Week 5_B\bin\Debug\System.Windows.Forms.dll
+C:\Users\Personal\Desktop\C#Proyects\Week 5_B\Week 5_B\bin\Debug\System.Xml.dll
+C:\Users\Personal\Desktop\C#Proyects\Week 5_B\Week 5_B\bin\Debug\System.Xml.Linq.dll
+C:\Users\Personal\Desktop\C#Proyects\Week 5_B\Week 5_B\obj\Debug\Week 5_B.csprojResolveAssemblyReference.cache
